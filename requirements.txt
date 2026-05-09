@@ -1,0 +1,10 @@
+datasets>=2.18.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+ipykernel>=6.0.0
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.40.0
+accelerate>=0.28.0
+timm>=0.9.0
+pycocoevalcap>=1.2
